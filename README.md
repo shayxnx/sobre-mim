@@ -1,4 +1,4 @@
-# Oi, eu sou a Shay 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=D0C0F7&background=586BFF00&width=435&lines=Oi%2C+eu+sou+a+Shay!+)](https://git.io/typing-svg)
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focada em desenvolvimento web Front-end
